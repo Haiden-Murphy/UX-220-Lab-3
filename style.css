@@ -1,4 +1,4 @@
-.head
+.topandbottom
 {
     background-color: black;
     color: aliceblue;
@@ -9,8 +9,7 @@
     background-color: lightcoral;
 }
 
-.foot
+body
 {
     background-color: rgb(134, 24, 68);
-    color: aliceblue;
 }
