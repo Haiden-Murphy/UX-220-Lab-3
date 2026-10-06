@@ -12,6 +12,12 @@
     font-size: 120%;
 }
 
+.container
+{
+    align-content: center;
+    margin: 20px;
+}
+
 body
 {
     background-color: rgb(134, 24, 68);
