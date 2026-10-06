@@ -3,12 +3,13 @@
     background-color: black;
     color: aliceblue;
 
-    font-size: 100%;
+    font-size: 150%;
 }
 
 .para
 {
     background-color: lightcoral;
+    font-size: 120%;
 }
 
 body
